@@ -46,3 +46,6 @@ The images in the [Photos](https://github.com/jasmcaus/opencv-course/tree/master
 
 
 The images in the [Faces](https://github.com/jasmcaus/opencv-course/tree/master/Resources/Faces) folder were procurred from a [repo](https://www.kaggle.com/dansbecker/5-celebrity-faces-dataset) on Kaggle.
+
+
+lavanya
